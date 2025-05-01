@@ -1,0 +1,12 @@
+#myId{
+  height: 230px;
+  width: 100px;
+  background-color: darkgreen;
+  color:black;
+  border:1px solid black;
+}
+button{
+    height: 30px;
+    width:100px;
+    color:black;
+}
